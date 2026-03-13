@@ -1,0 +1,16 @@
+{
+  "name": "state-layer-control",
+  "type": "widget",
+  "label": "State Layer Control",
+  "version": "1.0.0",
+  "exbVersion": "1.19.0",
+  "author": "Jay Bowen",
+  "description": "Custom layer control for State Corridors and Interstates.",
+  "dependency": [
+    "jimu-arcgis"
+  ],
+  "translatedLocales": [
+    "en"
+  ],
+  "properties": {}
+}
