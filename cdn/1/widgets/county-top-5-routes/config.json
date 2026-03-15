@@ -1,7 +1,0 @@
-{
-  "rankField": "CntyRankCMV",
-  "routeField": "RouteName",
-  "groupField": "County",
-  "layerTitle": "County Corridors",
-  "panelTitle": "TOP 5 COUNTY RANKS"
-}
