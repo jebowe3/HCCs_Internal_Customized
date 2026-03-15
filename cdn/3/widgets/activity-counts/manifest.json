@@ -1,0 +1,16 @@
+{
+  "name": "activity-counts",
+  "type": "widget",
+  "label": "Activity Counts",
+  "version": "1.0.0",
+  "exbVersion": "1.19.0",
+  "author": "Jay Bowen",
+  "description": "Displays inspection and citation totals based on troop filter selections.",
+  "dependency": [
+    "jimu-arcgis"
+  ],
+  "translatedLocales": [
+    "en"
+  ],
+  "properties": {}
+}

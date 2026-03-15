@@ -1,0 +1,18 @@
+{
+  "name": "top-5-routes",
+  "type": "widget",
+  "label": "Top 5 Routes",
+  "version": "1.0.0",
+  "exbVersion": "1.19.0",
+  "author": "Jay Bowen",
+  "description": "Shows top 5 ranked routes and zooms to selected route.",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "properties": {},
+  "dependency": [
+    "jimu-arcgis"
+  ],
+  "translatedLocales": [
+    "en"
+  ]
+}
